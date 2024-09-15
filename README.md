@@ -1,8 +1,5 @@
-# POWER_BI-FOOD-DELIVERY-COST-AND-PROFITIBILITY-ANALYSIS-PROJECT
-Developed an interactive Power BI dashboard for analyzing food delivery costs and profitability, providing insights into financial performance and operational efficiency.
-Sure! Here’s a template for a `README.md` file for your food delivery cost and profitability analysis project using Power BI:
 
----
+
 
 # Food Delivery Cost and Profitability Analysis Project
 
